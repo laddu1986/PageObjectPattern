@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Regression Suite">
+
+<listeners>
+<!-- <listener class-name="com.test.automation.practice.customListner.Listener"></listener>  -->
+<listener class-name="com.test.automation.practice.customListner.RetryListener"></listener> 
+</listeners>
+
+<test name="homepageLoginAndRegistration">
+<classes>
+<class name="com.test.automation.practice.homepage.TC001_VerifyLoginWithInvalidCredentailsToAutoMationPractices"></class>
+<class name="com.test.automation.practice.homepage.TC002_VerifyLogin"></class>
+<class name="com.test.automation.practice.homepage.TC003_VerifyLoginWithDifferentRecords"></class>
+<class name="com.test.automation.practice.homepage.TC004_VerifySignIn"></class>
+</classes>
+</test>
+
+<test name="addToCartOrderProccesing">
+<classes>
+<class name="com.test.automation.practice.addToCartOrderProccesing.TC001_VerifyAaddToCart"></class>
+<class name="com.test.automation.practice.addToCartOrderProccesing.TC002_OrderProccessing"></class>
+</classes>
+</test>
+
+</suite>

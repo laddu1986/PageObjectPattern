@@ -1,0 +1,330 @@
+
+2018-06-07 23:32:05 INFO  TestBase:136 - navigating to :-http://automationpractice.com/index.php
+2018-06-07 23:32:57 INFO  TestBase:288 - browser closed
+2018-06-07 23:34:30 INFO  TestBase:136 - navigating to :-http://automationpractice.com/index.php
+2018-06-07 23:34:54 INFO  TestBase:288 - browser closed
+2018-06-07 23:36:56 INFO  TestBase:136 - navigating to :-http://automationpractice.com/index.php
+2018-06-07 23:37:18 INFO  TestBase:288 - browser closed
+2018-06-07 23:42:46 INFO  TestBase:139 - navigating to :-http://automationpractice.com/index.php
+2018-06-07 23:43:09 INFO  TestBase:291 - browser closed
+2018-06-07 23:47:38 INFO  TestBase:139 - navigating to :-http://automationpractice.com/index.php
+2018-06-07 23:48:02 INFO  TestBase:290 - browser closed
+2018-06-07 23:56:52 INFO  TestBase:139 - navigating to :-http://automationpractice.com/index.php
+2018-06-07 23:57:15 INFO  TestBase:290 - browser closed
+2018-06-08 01:26:36 INFO  TestBase:139 - navigating to :-http://automationpractice.com/index.php
+2018-06-08 01:26:59 INFO  TestBase:290 - browser closed
+2018-06-08 01:27:26 INFO  TestBase:139 - navigating to :-http://automationpractice.com/index.php
+2018-06-08 01:27:46 INFO  TestBase:290 - browser closed
+2018-06-08 01:28:28 INFO  TestBase:139 - navigating to :-http://automationpractice.com/index.php
+2018-06-08 01:28:50 INFO  TestBase:290 - browser closed
+2018-06-08 01:32:50 INFO  TestBase:129 - navigating to :-http://automationpractice.com/index.php
+2018-06-08 01:33:17 INFO  TestBase:280 - browser closed
+2018-06-08 01:34:27 INFO  TestBase:129 - navigating to :-http://automationpractice.com/index.php
+2018-06-08 01:34:50 INFO  TestBase:280 - browser closed
+2018-06-08 03:13:50 INFO  TestBase:129 - navigating to :-http://automationpractice.com/index.php
+2018-06-08 03:14:14 INFO  TestBase:280 - browser closed
+2018-06-08 03:14:14 INFO  TestBase:280 - browser closed
+2018-06-08 03:14:15 INFO  TestBase:280 - browser closed
+2018-06-08 03:14:15 INFO  TestBase:280 - browser closed
+2018-06-08 03:14:20 INFO  TestBase:129 - navigating to :-http://automationpractice.com/index.php
+2018-06-08 03:14:25 INFO  TestBase:280 - browser closed
+2018-06-08 03:14:25 INFO  TestBase:280 - browser closed
+2018-06-09 04:18:07 INFO  TestBase:129 - navigating to :-http://automationpractice.com/index.php
+2018-06-09 04:18:27 INFO  TestBase:280 - browser closed
+2018-06-09 08:47:01 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-09 08:47:13 INFO  TestBase:42 - =======started verifyRegistration Test===========
+2018-06-09 08:47:16 INFO  SignIn:213 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (7eedb787c9b9713dfe434e7df671d238)] -> class name: login]
+2018-06-09 08:47:16 INFO  TestBase:54 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"Email"}
+  (Session info: chrome=67.0.3396.79)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 54 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'DESKTOP-QBEO8F3', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\PROGOS~1\AppData\Local\Temp\scoped_dir10008_4034}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.79, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 7eedb787c9b9713dfe434e7df671d238
+*** Element info: {Using=id, value=Email}
+2018-06-09 08:47:16 INFO  SignIn:213 - switched to the default Content
+2018-06-09 08:47:17 INFO  TestBase:280 - browser closed
+2018-06-09 08:47:36 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-09 08:47:47 INFO  TestBase:42 - =======started verifyRegistration Test===========
+2018-06-09 08:47:50 INFO  SignIn:213 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (900152919741e8bdb52d2eb1dca06cec)] -> class name: login]
+2018-06-09 08:47:51 INFO  SignIn:213 - entered email address:-[[ChromeDriver: chrome on XP (900152919741e8bdb52d2eb1dca06cec)] -> id: email_create] and object is [[ChromeDriver: chrome on XP (900152919741e8bdb52d2eb1dca06cec)] -> id: email_create]
+2018-06-09 08:47:51 INFO  SignIn:213 - Click on submit:-[[ChromeDriver: chrome on XP (900152919741e8bdb52d2eb1dca06cec)] -> id: SubmitCreate]
+2018-06-09 08:47:53 INFO  SignIn:213 - entered data to first name field and object is:-[[ChromeDriver: chrome on XP (900152919741e8bdb52d2eb1dca06cec)] -> id: customer_firstname]
+2018-06-09 08:47:53 INFO  SignIn:213 - entered data to last name field and object is:-[[ChromeDriver: chrome on XP (900152919741e8bdb52d2eb1dca06cec)] -> id: customer_lastname]
+2018-06-09 08:47:53 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (900152919741e8bdb52d2eb1dca06cec)] -> id: passwd]
+2018-06-09 08:47:54 INFO  SignIn:213 - entered data to email field and object is:-[[ChromeDriver: chrome on XP (900152919741e8bdb52d2eb1dca06cec)] -> id: company]
+2018-06-09 08:47:54 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (900152919741e8bdb52d2eb1dca06cec)] -> id: address1]
+2018-06-09 08:47:54 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (900152919741e8bdb52d2eb1dca06cec)] -> id: address2]
+2018-06-09 08:47:55 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (900152919741e8bdb52d2eb1dca06cec)] -> id: city]
+2018-06-09 08:47:55 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (900152919741e8bdb52d2eb1dca06cec)] -> id: postcode]
+2018-06-09 08:47:55 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (900152919741e8bdb52d2eb1dca06cec)] -> id: other]
+2018-06-09 08:47:55 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (900152919741e8bdb52d2eb1dca06cec)] -> id: phone]
+2018-06-09 08:47:56 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (900152919741e8bdb52d2eb1dca06cec)] -> id: phone_mobile]
+2018-06-09 08:47:56 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (900152919741e8bdb52d2eb1dca06cec)] -> id: alias]
+2018-06-09 08:47:58 INFO  SignIn:213 - entered data to password field and object is:-Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+2018-06-09 08:47:58 INFO  SignIn:213 - switched to the default Content
+2018-06-09 08:47:59 INFO  TestBase:280 - browser closed
+2018-06-09 08:50:36 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-09 08:50:48 INFO  TestBase:42 - =======started verifyRegistration Test===========
+2018-06-09 08:50:52 INFO  SignIn:213 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (5414ee7f9493ce35da01373693ba3cd9)] -> class name: login]
+2018-06-09 08:50:53 INFO  SignIn:213 - entered email address:-[[ChromeDriver: chrome on XP (5414ee7f9493ce35da01373693ba3cd9)] -> id: email_create] and object is [[ChromeDriver: chrome on XP (5414ee7f9493ce35da01373693ba3cd9)] -> id: email_create]
+2018-06-09 08:50:53 INFO  SignIn:213 - Click on submit:-[[ChromeDriver: chrome on XP (5414ee7f9493ce35da01373693ba3cd9)] -> id: SubmitCreate]
+2018-06-09 08:50:55 INFO  SignIn:213 - entered data to first name field and object is:-[[ChromeDriver: chrome on XP (5414ee7f9493ce35da01373693ba3cd9)] -> id: customer_firstname]
+2018-06-09 08:50:55 INFO  SignIn:213 - entered data to last name field and object is:-[[ChromeDriver: chrome on XP (5414ee7f9493ce35da01373693ba3cd9)] -> id: customer_lastname]
+2018-06-09 08:50:55 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (5414ee7f9493ce35da01373693ba3cd9)] -> id: passwd]
+2018-06-09 08:50:56 INFO  SignIn:213 - entered data to email field and object is:-[[ChromeDriver: chrome on XP (5414ee7f9493ce35da01373693ba3cd9)] -> id: company]
+2018-06-09 08:50:56 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (5414ee7f9493ce35da01373693ba3cd9)] -> id: address1]
+2018-06-09 08:50:56 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (5414ee7f9493ce35da01373693ba3cd9)] -> id: address2]
+2018-06-09 08:50:57 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (5414ee7f9493ce35da01373693ba3cd9)] -> id: city]
+2018-06-09 08:50:57 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (5414ee7f9493ce35da01373693ba3cd9)] -> id: postcode]
+2018-06-09 08:50:57 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (5414ee7f9493ce35da01373693ba3cd9)] -> id: other]
+2018-06-09 08:50:57 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (5414ee7f9493ce35da01373693ba3cd9)] -> id: phone]
+2018-06-09 08:50:57 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (5414ee7f9493ce35da01373693ba3cd9)] -> id: phone_mobile]
+2018-06-09 08:50:58 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (5414ee7f9493ce35da01373693ba3cd9)] -> id: alias]
+2018-06-09 08:51:00 INFO  SignIn:213 - entered data to password field and object is:-Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+2018-06-09 08:51:00 INFO  TestBase:280 - browser closed
+2018-06-09 08:53:48 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-09 08:53:59 INFO  TestBase:42 - =======started verifyRegistration Test===========
+2018-06-09 08:54:01 INFO  SignIn:213 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (69e016b481416350b76e2b4289860406)] -> class name: login]
+2018-06-09 08:54:02 INFO  SignIn:213 - entered email address:-[[ChromeDriver: chrome on XP (69e016b481416350b76e2b4289860406)] -> id: email_create] and object is [[ChromeDriver: chrome on XP (69e016b481416350b76e2b4289860406)] -> id: email_create]
+2018-06-09 08:54:02 INFO  SignIn:213 - Click on submit:-[[ChromeDriver: chrome on XP (69e016b481416350b76e2b4289860406)] -> id: SubmitCreate]
+2018-06-09 08:54:04 INFO  SignIn:213 - entered data to first name field and object is:-[[ChromeDriver: chrome on XP (69e016b481416350b76e2b4289860406)] -> id: customer_firstname]
+2018-06-09 08:54:04 INFO  SignIn:213 - entered data to last name field and object is:-[[ChromeDriver: chrome on XP (69e016b481416350b76e2b4289860406)] -> id: customer_lastname]
+2018-06-09 08:54:04 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (69e016b481416350b76e2b4289860406)] -> id: passwd]
+2018-06-09 08:54:05 INFO  SignIn:213 - entered data to email field and object is:-[[ChromeDriver: chrome on XP (69e016b481416350b76e2b4289860406)] -> id: company]
+2018-06-09 08:54:05 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (69e016b481416350b76e2b4289860406)] -> id: address1]
+2018-06-09 08:54:05 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (69e016b481416350b76e2b4289860406)] -> id: address2]
+2018-06-09 08:54:06 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (69e016b481416350b76e2b4289860406)] -> id: city]
+2018-06-09 08:54:06 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (69e016b481416350b76e2b4289860406)] -> id: postcode]
+2018-06-09 08:54:06 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (69e016b481416350b76e2b4289860406)] -> id: other]
+2018-06-09 08:54:06 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (69e016b481416350b76e2b4289860406)] -> id: phone]
+2018-06-09 08:54:06 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (69e016b481416350b76e2b4289860406)] -> id: phone_mobile]
+2018-06-09 08:54:07 INFO  SignIn:213 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (69e016b481416350b76e2b4289860406)] -> id: alias]
+2018-06-09 08:54:09 INFO  SignIn:213 - entered data to password field and object is:-Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+2018-06-09 08:54:10 INFO  TestBase:280 - browser closed
+2018-06-09 09:02:34 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-09 09:02:46 INFO  TC002_VerifyLogin:35 - =======started VerifyLogin Test===========
+2018-06-09 09:02:46 INFO  TC002_VerifyLogin:48 - java.lang.NullPointerException
+2018-06-09 09:02:46 INFO  Login:115 - switched to the default Content
+2018-06-09 09:02:47 INFO  TestBase:266 - browser closed
+2018-06-09 09:03:53 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-09 09:04:06 INFO  TC002_VerifyLogin:35 - =======started VerifyLogin Test===========
+2018-06-09 09:04:06 INFO  TC002_VerifyLogin:47 - java.lang.NullPointerException
+2018-06-09 09:04:07 INFO  TestBase:266 - browser closed
+2018-06-09 09:05:24 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-09 09:05:35 INFO  TC002_VerifyLogin:35 - =======started VerifyLogin Test===========
+2018-06-09 09:05:40 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (cecef6565aa4c2b54c24bed7bc673783)] -> class name: login]
+2018-06-09 09:05:40 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (cecef6565aa4c2b54c24bed7bc673783)] -> id: email] and object is [[ChromeDriver: chrome on XP (cecef6565aa4c2b54c24bed7bc673783)] -> id: email]
+2018-06-09 09:05:41 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (cecef6565aa4c2b54c24bed7bc673783)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (cecef6565aa4c2b54c24bed7bc673783)] -> id: passwd]
+2018-06-09 09:05:42 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-09 09:05:43 INFO  Login:117 - switched to the default Content
+2018-06-09 09:05:43 INFO  TestBase:266 - browser closed
+2018-06-09 09:12:45 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-09 09:12:56 INFO  TC001_VerifyLoginWithInvalidCredentailsToAutoMationPractices:31 - =========== Starting verifyLoginWithInvalidCredentails Test=============
+2018-06-09 09:12:58 INFO  HomePage_AutomationPractices:50 - click on sign in and object is:-[[ChromeDriver: chrome on XP (b23570ffa72af2ba90cd56c6be23f24f)] -> css selector: .login]
+2018-06-09 09:13:00 INFO  TC001_VerifyLoginWithInvalidCredentailsToAutoMationPractices:35 - =========== Finished verifyLoginWithInvalidCredentails Test=============
+2018-06-09 09:13:00 INFO  TestBase:266 - browser closed
+2018-06-09 09:14:35 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-09 09:14:47 INFO  TC003_VerifyLoginWithDifferentRecords:47 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-06-09 09:14:48 INFO  TC003_VerifyLoginWithDifferentRecords:47 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-06-09 09:14:48 INFO  TC003_VerifyLoginWithDifferentRecords:47 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-06-09 09:14:49 INFO  TestBase:266 - browser closed
+2018-06-09 09:15:40 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-09 09:15:53 INFO  TC003_VerifyLoginWithDifferentRecords:47 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-06-09 09:15:54 INFO  TC003_VerifyLoginWithDifferentRecords:47 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-06-09 09:15:54 INFO  TC003_VerifyLoginWithDifferentRecords:47 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-06-09 09:15:55 INFO  TestBase:266 - browser closed
+2018-06-09 09:16:30 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-09 09:16:41 INFO  TestBase:29 - =======Starting verifyAaddToCart test========
+2018-06-09 09:16:42 INFO  TestBase:266 - browser closed
+2018-06-09 09:19:22 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-09 09:19:33 INFO  TestBase:30 - =======Starting OrderProccessing test========
+2018-06-09 09:19:38 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (21447e4466f6740b52851a947f68acaa)] -> class name: login]
+2018-06-09 09:19:39 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (21447e4466f6740b52851a947f68acaa)] -> id: email] and object is [[ChromeDriver: chrome on XP (21447e4466f6740b52851a947f68acaa)] -> id: email]
+2018-06-09 09:19:39 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (21447e4466f6740b52851a947f68acaa)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (21447e4466f6740b52851a947f68acaa)] -> id: passwd]
+2018-06-09 09:19:41 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-09 09:19:41 INFO  TestBase:266 - browser closed
+2018-06-09 09:21:13 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-09 09:21:24 INFO  TestBase:30 - =======Starting OrderProccessing test========
+2018-06-09 09:21:30 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (7c39bdecdf67233c0301ae716ea8fe8c)] -> class name: login]
+2018-06-09 09:21:30 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (7c39bdecdf67233c0301ae716ea8fe8c)] -> id: email] and object is [[ChromeDriver: chrome on XP (7c39bdecdf67233c0301ae716ea8fe8c)] -> id: email]
+2018-06-09 09:21:30 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (7c39bdecdf67233c0301ae716ea8fe8c)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (7c39bdecdf67233c0301ae716ea8fe8c)] -> id: passwd]
+2018-06-09 09:21:32 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-09 09:21:33 INFO  TestBase:266 - browser closed
+2018-06-09 09:22:47 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-09 09:22:59 INFO  TestBase:30 - =======Starting OrderProccessing test========
+2018-06-09 09:23:04 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (e2f437b2c5e23c9678f4fe2d8d38c8a1)] -> class name: login]
+2018-06-09 09:23:04 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (e2f437b2c5e23c9678f4fe2d8d38c8a1)] -> id: email] and object is [[ChromeDriver: chrome on XP (e2f437b2c5e23c9678f4fe2d8d38c8a1)] -> id: email]
+2018-06-09 09:23:05 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (e2f437b2c5e23c9678f4fe2d8d38c8a1)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (e2f437b2c5e23c9678f4fe2d8d38c8a1)] -> id: passwd]
+2018-06-09 09:23:07 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-09 09:23:08 INFO  TestBase:266 - browser closed
+2018-06-10 12:05:59 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:06:11 INFO  TestBase:29 - =======Starting verifyAaddToCart test========
+2018-06-10 12:09:32 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:09:44 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:09:49 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (77759e587d60b5c76d5209d69ce36a74)] -> class name: login]
+2018-06-10 12:09:49 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (77759e587d60b5c76d5209d69ce36a74)] -> id: email] and object is [[ChromeDriver: chrome on XP (77759e587d60b5c76d5209d69ce36a74)] -> id: email]
+2018-06-10 12:09:49 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (77759e587d60b5c76d5209d69ce36a74)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (77759e587d60b5c76d5209d69ce36a74)] -> id: passwd]
+2018-06-10 12:09:51 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:12:17 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:12:30 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:12:35 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (1421754b9d3b2e7ad93a2515c5579c6b)] -> class name: login]
+2018-06-10 12:12:35 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (1421754b9d3b2e7ad93a2515c5579c6b)] -> id: email] and object is [[ChromeDriver: chrome on XP (1421754b9d3b2e7ad93a2515c5579c6b)] -> id: email]
+2018-06-10 12:12:36 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (1421754b9d3b2e7ad93a2515c5579c6b)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (1421754b9d3b2e7ad93a2515c5579c6b)] -> id: passwd]
+2018-06-10 12:13:10 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:13:21 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:13:26 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (0441e7a5d4c759621d62d135262d6441)] -> class name: login]
+2018-06-10 12:13:26 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (0441e7a5d4c759621d62d135262d6441)] -> id: email] and object is [[ChromeDriver: chrome on XP (0441e7a5d4c759621d62d135262d6441)] -> id: email]
+2018-06-10 12:13:26 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (0441e7a5d4c759621d62d135262d6441)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (0441e7a5d4c759621d62d135262d6441)] -> id: passwd]
+2018-06-10 12:13:28 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:14:08 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:14:19 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:14:24 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (3896057995f6866cd2108f7028ee694e)] -> class name: login]
+2018-06-10 12:14:24 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (3896057995f6866cd2108f7028ee694e)] -> id: email] and object is [[ChromeDriver: chrome on XP (3896057995f6866cd2108f7028ee694e)] -> id: email]
+2018-06-10 12:14:24 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (3896057995f6866cd2108f7028ee694e)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (3896057995f6866cd2108f7028ee694e)] -> id: passwd]
+2018-06-10 12:14:27 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:14:27 INFO  TestBase:266 - browser closed
+2018-06-10 12:16:54 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:17:06 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:17:11 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (dc9b8504a384125b9a21cf529ef1c74f)] -> class name: login]
+2018-06-10 12:17:12 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (dc9b8504a384125b9a21cf529ef1c74f)] -> id: email] and object is [[ChromeDriver: chrome on XP (dc9b8504a384125b9a21cf529ef1c74f)] -> id: email]
+2018-06-10 12:17:12 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (dc9b8504a384125b9a21cf529ef1c74f)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (dc9b8504a384125b9a21cf529ef1c74f)] -> id: passwd]
+2018-06-10 12:17:14 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:17:15 INFO  TestBase:266 - browser closed
+2018-06-10 12:18:25 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:18:37 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:18:41 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (8089453f7f4f6c540616c3e693c6a24b)] -> class name: login]
+2018-06-10 12:18:42 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (8089453f7f4f6c540616c3e693c6a24b)] -> id: email] and object is [[ChromeDriver: chrome on XP (8089453f7f4f6c540616c3e693c6a24b)] -> id: email]
+2018-06-10 12:18:42 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (8089453f7f4f6c540616c3e693c6a24b)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (8089453f7f4f6c540616c3e693c6a24b)] -> id: passwd]
+2018-06-10 12:18:44 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:18:44 INFO  TestBase:266 - browser closed
+2018-06-10 12:19:21 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:19:32 INFO  TestBase:29 - =======Starting verifyAaddToCart test========
+2018-06-10 12:19:33 INFO  TestBase:266 - browser closed
+2018-06-10 12:21:09 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:21:22 INFO  TC002_VerifyLogin:35 - =======started VerifyLogin Test===========
+2018-06-10 12:21:28 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (bdd06e9dde659e44170cf012afffda61)] -> class name: login]
+2018-06-10 12:21:28 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (bdd06e9dde659e44170cf012afffda61)] -> id: email] and object is [[ChromeDriver: chrome on XP (bdd06e9dde659e44170cf012afffda61)] -> id: email]
+2018-06-10 12:21:28 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (bdd06e9dde659e44170cf012afffda61)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (bdd06e9dde659e44170cf012afffda61)] -> id: passwd]
+2018-06-10 12:21:30 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:21:30 INFO  Login:117 - switched to the default Content
+2018-06-10 12:21:31 INFO  TestBase:266 - browser closed
+2018-06-10 12:21:53 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:22:03 INFO  TestBase:42 - =======started verifyRegistration Test===========
+2018-06-10 12:22:06 INFO  SignIn:217 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (c4bca7990300e2e15a388c3f6b623a40)] -> class name: login]
+2018-06-10 12:22:06 INFO  SignIn:217 - entered email address:-[[ChromeDriver: chrome on XP (c4bca7990300e2e15a388c3f6b623a40)] -> id: email_create] and object is [[ChromeDriver: chrome on XP (c4bca7990300e2e15a388c3f6b623a40)] -> id: email_create]
+2018-06-10 12:22:07 INFO  SignIn:217 - Click on submit:-[[ChromeDriver: chrome on XP (c4bca7990300e2e15a388c3f6b623a40)] -> id: SubmitCreate]
+2018-06-10 12:22:09 INFO  SignIn:217 - entered data to first name field and object is:-[[ChromeDriver: chrome on XP (c4bca7990300e2e15a388c3f6b623a40)] -> id: customer_firstname]
+2018-06-10 12:22:09 INFO  SignIn:217 - entered data to last name field and object is:-[[ChromeDriver: chrome on XP (c4bca7990300e2e15a388c3f6b623a40)] -> id: customer_lastname]
+2018-06-10 12:22:09 INFO  SignIn:217 - entered data to password field and object is:-[[ChromeDriver: chrome on XP (c4bca7990300e2e15a388c3f6b623a40)] -> id: passwd]
+2018-06-10 12:22:09 INFO  SignIn:217 - Select Day :-org.openqa.selenium.support.ui.Select@95e33cc
+2018-06-10 12:22:10 INFO  SignIn:217 - Select Month :-org.openqa.selenium.support.ui.Select@38604b81
+2018-06-10 12:22:10 INFO  SignIn:217 - Select Year :-org.openqa.selenium.support.ui.Select@1e44b638
+2018-06-10 12:22:10 INFO  SignIn:217 - entered data to email field and object is:-[[ChromeDriver: chrome on XP (c4bca7990300e2e15a388c3f6b623a40)] -> id: company]
+2018-06-10 12:22:10 INFO  SignIn:217 - entered data to Address1 field and object is:-[[ChromeDriver: chrome on XP (c4bca7990300e2e15a388c3f6b623a40)] -> id: address1]
+2018-06-10 12:22:10 INFO  SignIn:217 - entered data to Address2 field and object is:-[[ChromeDriver: chrome on XP (c4bca7990300e2e15a388c3f6b623a40)] -> id: address2]
+2018-06-10 12:22:10 INFO  SignIn:217 - entered data to City field and object is:-[[ChromeDriver: chrome on XP (c4bca7990300e2e15a388c3f6b623a40)] -> id: city]
+2018-06-10 12:22:11 INFO  SignIn:217 - entered data to Postcode field and object is:-[[ChromeDriver: chrome on XP (c4bca7990300e2e15a388c3f6b623a40)] -> id: postcode]
+2018-06-10 12:22:11 INFO  SignIn:217 - entered data to Other field and object is:-[[ChromeDriver: chrome on XP (c4bca7990300e2e15a388c3f6b623a40)] -> id: other]
+2018-06-10 12:22:11 INFO  SignIn:217 - entered data to Phone field and object is:-[[ChromeDriver: chrome on XP (c4bca7990300e2e15a388c3f6b623a40)] -> id: phone]
+2018-06-10 12:22:11 INFO  SignIn:217 - entered data to Mobilenumber field and object is:-[[ChromeDriver: chrome on XP (c4bca7990300e2e15a388c3f6b623a40)] -> id: phone_mobile]
+2018-06-10 12:22:11 INFO  SignIn:217 - entered data to Alias field and object is:-[[ChromeDriver: chrome on XP (c4bca7990300e2e15a388c3f6b623a40)] -> id: alias]
+2018-06-10 12:22:13 INFO  SignIn:217 - Click on the Submitaccount Button :-Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+2018-06-10 12:22:14 INFO  TestBase:266 - browser closed
+2018-06-10 12:22:50 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:23:01 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:23:06 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (4f81293e500f63e6a9972abf8fdf5aab)] -> class name: login]
+2018-06-10 12:23:06 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (4f81293e500f63e6a9972abf8fdf5aab)] -> id: email] and object is [[ChromeDriver: chrome on XP (4f81293e500f63e6a9972abf8fdf5aab)] -> id: email]
+2018-06-10 12:23:06 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (4f81293e500f63e6a9972abf8fdf5aab)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (4f81293e500f63e6a9972abf8fdf5aab)] -> id: passwd]
+2018-06-10 12:23:08 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:23:09 INFO  TestBase:266 - browser closed
+2018-06-10 12:27:00 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:27:11 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:27:16 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (66f3e7f55f6977e4ba372a91f4e6c0ab)] -> class name: login]
+2018-06-10 12:27:16 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (66f3e7f55f6977e4ba372a91f4e6c0ab)] -> id: email] and object is [[ChromeDriver: chrome on XP (66f3e7f55f6977e4ba372a91f4e6c0ab)] -> id: email]
+2018-06-10 12:27:16 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (66f3e7f55f6977e4ba372a91f4e6c0ab)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (66f3e7f55f6977e4ba372a91f4e6c0ab)] -> id: passwd]
+2018-06-10 12:27:18 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:27:19 INFO  TestBase:266 - browser closed
+2018-06-10 12:28:23 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:28:34 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:28:39 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (9a88f2de459032f5f29d1ea2886a1a55)] -> class name: login]
+2018-06-10 12:28:40 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (9a88f2de459032f5f29d1ea2886a1a55)] -> id: email] and object is [[ChromeDriver: chrome on XP (9a88f2de459032f5f29d1ea2886a1a55)] -> id: email]
+2018-06-10 12:28:40 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (9a88f2de459032f5f29d1ea2886a1a55)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (9a88f2de459032f5f29d1ea2886a1a55)] -> id: passwd]
+2018-06-10 12:28:42 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:28:43 INFO  TestBase:266 - browser closed
+2018-06-10 12:29:24 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:29:32 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:29:53 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:31:05 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:31:16 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:31:21 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (d110fe1197722d8cb26b0db74b60c15f)] -> class name: login]
+2018-06-10 12:31:21 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (d110fe1197722d8cb26b0db74b60c15f)] -> id: email] and object is [[ChromeDriver: chrome on XP (d110fe1197722d8cb26b0db74b60c15f)] -> id: email]
+2018-06-10 12:31:22 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (d110fe1197722d8cb26b0db74b60c15f)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (d110fe1197722d8cb26b0db74b60c15f)] -> id: passwd]
+2018-06-10 12:31:24 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:31:24 INFO  TestBase:266 - browser closed
+2018-06-10 12:32:15 INFO  TestBase:266 - browser closed
+2018-06-10 12:32:39 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:32:49 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:32:54 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (af9d4c3e6a027f3b35c0585104456b97)] -> class name: login]
+2018-06-10 12:32:54 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (af9d4c3e6a027f3b35c0585104456b97)] -> id: email] and object is [[ChromeDriver: chrome on XP (af9d4c3e6a027f3b35c0585104456b97)] -> id: email]
+2018-06-10 12:32:55 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (af9d4c3e6a027f3b35c0585104456b97)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (af9d4c3e6a027f3b35c0585104456b97)] -> id: passwd]
+2018-06-10 12:32:57 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:32:57 INFO  TestBase:266 - browser closed
+2018-06-10 12:33:39 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:34:38 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:34:51 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (bddd6c0aac46248720e3ecbfb09f0044)] -> class name: login]
+2018-06-10 12:34:51 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (bddd6c0aac46248720e3ecbfb09f0044)] -> id: email] and object is [[ChromeDriver: chrome on XP (bddd6c0aac46248720e3ecbfb09f0044)] -> id: email]
+2018-06-10 12:34:52 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (bddd6c0aac46248720e3ecbfb09f0044)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (bddd6c0aac46248720e3ecbfb09f0044)] -> id: passwd]
+2018-06-10 12:34:54 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:37:02 INFO  TestBase:130 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:37:14 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:37:19 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (87a0685866566ed04f71c588837dcaa4)] -> class name: login]
+2018-06-10 12:37:19 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (87a0685866566ed04f71c588837dcaa4)] -> id: email] and object is [[ChromeDriver: chrome on XP (87a0685866566ed04f71c588837dcaa4)] -> id: email]
+2018-06-10 12:37:19 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (87a0685866566ed04f71c588837dcaa4)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (87a0685866566ed04f71c588837dcaa4)] -> id: passwd]
+2018-06-10 12:37:21 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:37:22 INFO  TestBase:266 - browser closed
+2018-06-10 12:39:20 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:39:29 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:39:33 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (137ca3fc0769f06ea2a1d4669a5d1cd3)] -> class name: login]
+2018-06-10 12:39:33 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (137ca3fc0769f06ea2a1d4669a5d1cd3)] -> id: email] and object is [[ChromeDriver: chrome on XP (137ca3fc0769f06ea2a1d4669a5d1cd3)] -> id: email]
+2018-06-10 12:39:34 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (137ca3fc0769f06ea2a1d4669a5d1cd3)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (137ca3fc0769f06ea2a1d4669a5d1cd3)] -> id: passwd]
+2018-06-10 12:39:51 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:39:51 INFO  TestBase:271 - browser closed
+2018-06-10 12:44:02 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:44:12 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:44:18 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (02c95641126991eb0955f306963d3aa0)] -> class name: login]
+2018-06-10 12:44:18 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (02c95641126991eb0955f306963d3aa0)] -> id: email] and object is [[ChromeDriver: chrome on XP (02c95641126991eb0955f306963d3aa0)] -> id: email]
+2018-06-10 12:44:18 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (02c95641126991eb0955f306963d3aa0)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (02c95641126991eb0955f306963d3aa0)] -> id: passwd]
+2018-06-10 12:44:35 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:44:36 INFO  TestBase:271 - browser closed
+2018-06-10 12:45:30 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:45:41 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:45:46 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (508bcc1e753c32e02f3029d63cf8f1f7)] -> class name: login]
+2018-06-10 12:45:47 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (508bcc1e753c32e02f3029d63cf8f1f7)] -> id: email] and object is [[ChromeDriver: chrome on XP (508bcc1e753c32e02f3029d63cf8f1f7)] -> id: email]
+2018-06-10 12:45:47 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (508bcc1e753c32e02f3029d63cf8f1f7)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (508bcc1e753c32e02f3029d63cf8f1f7)] -> id: passwd]
+2018-06-10 12:46:04 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:46:05 INFO  TestBase:271 - browser closed
+2018-06-10 12:46:37 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:46:48 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:46:53 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (9c1bc6e1b49560772bc0ac515d8aa55b)] -> class name: login]
+2018-06-10 12:46:53 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (9c1bc6e1b49560772bc0ac515d8aa55b)] -> id: email] and object is [[ChromeDriver: chrome on XP (9c1bc6e1b49560772bc0ac515d8aa55b)] -> id: email]
+2018-06-10 12:46:53 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (9c1bc6e1b49560772bc0ac515d8aa55b)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (9c1bc6e1b49560772bc0ac515d8aa55b)] -> id: passwd]
+2018-06-10 12:47:10 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:47:16 INFO  TestBase:271 - browser closed
+2018-06-10 12:49:01 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:49:13 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:49:18 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (8b52eac29ee255f97a1edc162f4717e8)] -> class name: login]
+2018-06-10 12:49:18 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (8b52eac29ee255f97a1edc162f4717e8)] -> id: email] and object is [[ChromeDriver: chrome on XP (8b52eac29ee255f97a1edc162f4717e8)] -> id: email]
+2018-06-10 12:49:18 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (8b52eac29ee255f97a1edc162f4717e8)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (8b52eac29ee255f97a1edc162f4717e8)] -> id: passwd]
+2018-06-10 12:49:35 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:49:41 INFO  TestBase:271 - browser closed
+2018-06-10 12:50:55 INFO  TestBase:135 - navigating to :-http://automationpractice.com/index.php
+2018-06-10 12:51:06 INFO  TestBase:32 - =======Starting OrderProccessing test========
+2018-06-10 12:51:11 INFO  Login:117 - cliked on sign in and object is:-[[ChromeDriver: chrome on XP (26c6f6a4f7193cd3ce4d91361ce099f2)] -> class name: login]
+2018-06-10 12:51:11 INFO  Login:117 - entered email address:-[[ChromeDriver: chrome on XP (26c6f6a4f7193cd3ce4d91361ce099f2)] -> id: email] and object is [[ChromeDriver: chrome on XP (26c6f6a4f7193cd3ce4d91361ce099f2)] -> id: email]
+2018-06-10 12:51:12 INFO  Login:117 - entered password:-[[ChromeDriver: chrome on XP (26c6f6a4f7193cd3ce4d91361ce099f2)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (26c6f6a4f7193cd3ce4d91361ce099f2)] -> id: passwd]
+2018-06-10 12:51:29 INFO  Login:117 - Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2018-06-10 12:51:34 INFO  TestBase:271 - browser closed

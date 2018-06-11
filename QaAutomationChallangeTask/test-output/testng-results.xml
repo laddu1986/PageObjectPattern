@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[cliked on sign in and object is:-[[ChromeDriver: chrome on XP (26c6f6a4f7193cd3ce4d91361ce099f2)] -> class name: login]]]>
+    </line>
+    <line>
+      <![CDATA[entered email address:-[[ChromeDriver: chrome on XP (26c6f6a4f7193cd3ce4d91361ce099f2)] -> id: email] and object is [[ChromeDriver: chrome on XP (26c6f6a4f7193cd3ce4d91361ce099f2)] -> id: email]]]>
+    </line>
+    <line>
+      <![CDATA[entered password:-[[ChromeDriver: chrome on XP (26c6f6a4f7193cd3ce4d91361ce099f2)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (26c6f6a4f7193cd3ce4d91361ce099f2)] -> id: passwd]]]>
+    </line>
+    <line>
+      <![CDATA[Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin']]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Progos-QA\Desktop\QaAutomationChallangeTask\QaAutomationChallangeTask\Screenshots\testOrderProccessing_10_06_2018_12_51_34.png'> <img src='C:\Users\Progos-QA\Desktop\QaAutomationChallangeTask\QaAutomationChallangeTask\Screenshots\testOrderProccessing_10_06_2018_12_51_34.png' height='100' width='100'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44162" started-at="2018-06-10T19:50:50Z" finished-at="2018-06-10T19:51:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44162" started-at="2018-06-10T19:50:50Z" finished-at="2018-06-10T19:51:35Z">
+      <class name="com.test.automation.practice.addToCartOrderProccesing.TC002_OrderProccessing">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.practice.addToCartOrderProccesing.TC002_OrderProccessing@51931956]" name="setUp" is-config="true" duration-ms="15720" started-at="2018-06-10T12:50:50Z" finished-at="2018-06-10T12:51:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.automation.practice.addToCartOrderProccesing.TC002_OrderProccessing@51931956]" name="beforeMethod" is-config="true" duration-ms="7" started-at="2018-06-10T12:51:06Z" finished-at="2018-06-10T12:51:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.automation.practice.addToCartOrderProccesing.TC002_OrderProccessing.VerifyOrderProccesing()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="VerifyOrderProccesing()[pri:0, instance:com.test.automation.practice.addToCartOrderProccesing.TC002_OrderProccessing@51931956]" name="VerifyOrderProccesing" duration-ms="28011" started-at="2018-06-10T12:51:06Z" finished-at="2018-06-10T12:51:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[cliked on sign in and object is:-[[ChromeDriver: chrome on XP (26c6f6a4f7193cd3ce4d91361ce099f2)] -> class name: login]]]>
+            </line>
+            <line>
+              <![CDATA[entered email address:-[[ChromeDriver: chrome on XP (26c6f6a4f7193cd3ce4d91361ce099f2)] -> id: email] and object is [[ChromeDriver: chrome on XP (26c6f6a4f7193cd3ce4d91361ce099f2)] -> id: email]]]>
+            </line>
+            <line>
+              <![CDATA[entered password:-[[ChromeDriver: chrome on XP (26c6f6a4f7193cd3ce4d91361ce099f2)] -> id: passwd] and object is [[ChromeDriver: chrome on XP (26c6f6a4f7193cd3ce4d91361ce099f2)] -> id: passwd]]]>
+            </line>
+            <line>
+              <![CDATA[Click on submit:-Proxy element for: DefaultElementLocator 'By.id: SubmitLogin']]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Progos-QA\Desktop\QaAutomationChallangeTask\QaAutomationChallangeTask\Screenshots\testOrderProccessing_10_06_2018_12_51_34.png'> <img src='C:\Users\Progos-QA\Desktop\QaAutomationChallangeTask\QaAutomationChallangeTask\Screenshots\testOrderProccessing_10_06_2018_12_51_34.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyOrderProccesing -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.automation.practice.addToCartOrderProccesing.TC002_OrderProccessing@51931956]" name="endTest" is-config="true" duration-ms="390" started-at="2018-06-10T12:51:34Z" finished-at="2018-06-10T12:51:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.automation.practice.addToCartOrderProccesing.TC002_OrderProccessing@51931956]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-06-10T12:51:34Z" finished-at="2018-06-10T12:51:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyOrderProccesing status=SUCCESS method=TC002_OrderProccessing.VerifyOrderProccesing()[pri:0, instance:com.test.automation.practice.addToCartOrderProccesing.TC002_OrderProccessing@51931956] output=cliked on sign in and object is:-[[ChromeDriver: chrome on XP (26c6f6a4f7193cd3ce4d91361ce099f2)] -> class name: login]]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.test.automation.practice.addToCartOrderProccesing.TC002_OrderProccessing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
+  <listeners>
+    <listener class-name="com.test.automation.practice.customListner.RetryListener"/>
+  </listeners>
+  <test name="homepageLoginAndRegistration(failed)">
+    <classes>
+      <class name="com.test.automation.practice.homepage.TC001_VerifyLoginWithInvalidCredentailsToAutoMationPractices">
+        <methods>
+          <include name="verifyLoginWithInvalidCredentails"/>
+          <include name="endTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.test.automation.practice.homepage.TC001_VerifyLoginWithInvalidCredentailsToAutoMationPractices -->
+      <class name="com.test.automation.practice.addToCartOrderProccesing.TC002_OrderProccessing">
+        <methods>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- com.test.automation.practice.addToCartOrderProccesing.TC002_OrderProccessing -->
+      <class name="com.test.automation.practice.addToCartOrderProccesing.TC001_VerifyAaddToCart">
+        <methods>
+          <include name="endTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.test.automation.practice.addToCartOrderProccesing.TC001_VerifyAaddToCart -->
+      <class name="com.test.automation.practice.homepage.TC003_VerifyLoginWithDifferentRecords">
+        <methods>
+          <include name="verifyLoginWithDifferentRecords" invocation-numbers="0 1 2 3 4 5 6"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- com.test.automation.practice.homepage.TC003_VerifyLoginWithDifferentRecords -->
+      <class name="com.test.automation.practice.homepage.TCOO4_VerifySignIn">
+        <methods>
+          <include name="verifyRegistration"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- com.test.automation.practice.homepage.TCOO4_VerifySignIn -->
+      <class name="com.test.automation.practice.homepage.TC002_VerifyLogin">
+        <methods>
+          <include name="endTest"/>
+          <include name="VerifyLogin"/>
+        </methods>
+      </class> <!-- com.test.automation.practice.homepage.TC002_VerifyLogin -->
+    </classes>
+  </test> <!-- homepageLoginAndRegistration(failed) -->
+  <test name="addToCartOrderProccesing(failed)">
+    <classes>
+      <class name="com.test.automation.practice.homepage.TC001_VerifyLoginWithInvalidCredentailsToAutoMationPractices">
+        <methods>
+          <include name="endTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.test.automation.practice.homepage.TC001_VerifyLoginWithInvalidCredentailsToAutoMationPractices -->
+      <class name="com.test.automation.practice.addToCartOrderProccesing.TC002_OrderProccessing">
+        <methods>
+          <include name="endTest"/>
+          <include name="verifyAaddToCart"/>
+        </methods>
+      </class> <!-- com.test.automation.practice.addToCartOrderProccesing.TC002_OrderProccessing -->
+      <class name="com.test.automation.practice.addToCartOrderProccesing.TC001_VerifyAaddToCart">
+        <methods>
+          <include name="verifyAaddToCart"/>
+          <include name="endTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.test.automation.practice.addToCartOrderProccesing.TC001_VerifyAaddToCart -->
+      <class name="com.test.automation.practice.homepage.TC003_VerifyLoginWithDifferentRecords">
+        <methods>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- com.test.automation.practice.homepage.TC003_VerifyLoginWithDifferentRecords -->
+      <class name="com.test.automation.practice.homepage.TCOO4_VerifySignIn">
+        <methods>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- com.test.automation.practice.homepage.TCOO4_VerifySignIn -->
+      <class name="com.test.automation.practice.homepage.TC002_VerifyLogin">
+        <methods>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- com.test.automation.practice.homepage.TC002_VerifyLogin -->
+    </classes>
+  </test> <!-- addToCartOrderProccesing(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->
